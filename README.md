@@ -7,4 +7,4 @@ Nos workshops sont conçus pour offrir une expérience d'apprentissage pratique 
 
 Ce projet est publié sous licence open source. Pour plus d'informations, veuillez consulter le fichier LICENSE dans ce dépôt.
 
-Pour plus d'informations sur nos workshops, nos cours, ou pour vous inscrire, veuillez visiter notre site internet https://www.beauvoir.co/. Découvrez comment Beauvoir prépare les étudiants à devenir les leaders de demain dans le domaine de la technologie et de l'innovation.
+Pour plus d'informations sur nos workshops, nos cours, ou pour vous inscrire, veuillez visiter notre site internet https://www.beauvoir.co/. Découvrez comment Beauvoir prépare les étudiants à devenir les leaders de demain dans le domaine de la technologie et de l'innovation et candidatez sur https://www.beauvoir.co/candidature
